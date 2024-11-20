@@ -30,7 +30,7 @@ div {
 }
 .chamada-texto {
     margin-left: 20px;
-    margin-top: 5px;
+    margin-top: 2px;
     display:inline-flexbox;
     justify-content:center;
     text-align: right;
@@ -38,7 +38,7 @@ div {
 }
 .chamada-texo-dois {
     margin-left: 20px;
-    margin-top: 5px;
+    margin-top: 2px;
     display:inline-flexbox;
     justify-content:center;
     text-align: right;
