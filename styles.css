@@ -3,4 +3,6 @@ body{
     color:aliceblue;
     background: rgb(46, 1, 88);
 }
-
+header {
+    border: solid 2px rgba(210, 227, 241, 0.685);
+    }
