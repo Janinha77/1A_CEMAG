@@ -23,4 +23,5 @@ div {
     margin-right: 15%;
     display:inline-flexbox;
     justify-content:center;
+    border-left: 20px;
 }
