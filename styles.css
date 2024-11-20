@@ -23,5 +23,6 @@ div {
     margin-left: 20px;
     display:inline-flexbox;
     justify-content:center;
+    text-align: justify;
    
 }
