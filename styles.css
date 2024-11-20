@@ -6,7 +6,7 @@ body{
     font-family: "Chakra Petch", sans-serif;
 }
 header {
-    border-bottom: solid 3px rgba(164, 157, 252, 0.959);
+    border-bottom: solid 4px white;
     padding: 10px;
     font-size: 35px;
     color: white;
