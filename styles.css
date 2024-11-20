@@ -19,3 +19,8 @@ section {
 div {
     margin-right: 20px;
 }
+.texto {
+    margin-right: 5%;
+    display: block;
+    justify-content: center;
+}
