@@ -21,6 +21,6 @@ div {
 }
 .texto {
     margin-right: 15%;
-    display: inline-block;
-    justify-content: center;
+    display:inline-flexbox;
+    justify-content:center;
 }
