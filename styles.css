@@ -36,15 +36,8 @@ div {
     display:inline-flexbox;
     justify-content:center;
     text-align: right;
+}
 
-}
-.chamada-texto-dois {
-    margin-left: 20px;
-    margin-top: 2px;
-    display:inline-flexbox;
-    justify-content:center;
-    text-align: right;
-}
 h1{
     font-size: 40px;
 }
