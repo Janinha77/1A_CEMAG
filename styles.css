@@ -20,7 +20,7 @@ div {
     margin-right: 20px;
 }
 .texto {
-    margin-right: 5%;
-    display: block;
+    margin-right: 15%;
+    display: inline-block;
     justify-content: center;
 }
