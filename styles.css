@@ -8,7 +8,7 @@ body{
 header {
     border-bottom: solid 4px white;
     padding: 10px;
-    font-size: 35px;
+    font-size: 50px;
     color: white;
     text-align: center;
     }
@@ -38,7 +38,7 @@ div {
     text-align: right;
 
 }
-.chamada-texo-dois {
+.chamada-texto-dois {
     margin-left: 20px;
     margin-top: 2px;
     display:inline-flexbox;
@@ -46,11 +46,11 @@ div {
     text-align: right;
 }
 h1{
-    font-size: 50px;
+    font-size: 40px;
 }
 p{
     font-size: 20px;
 }
 h2{
-    font-size: 40px;
+    font-size: 30px;
 }
