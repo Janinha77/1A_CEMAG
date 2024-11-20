@@ -44,5 +44,13 @@ div {
     display:inline-flexbox;
     justify-content:center;
     text-align: right;
-
+}
+h1{
+    font-size: 50px;
+}
+p{
+    font-size: 20px;
+}
+h2{
+    font-size: 40px;
 }
