@@ -1,13 +1,14 @@
 
 body{
     color:aliceblue;
-    background: rgb(23, 20, 26);
+    background: rgb(22, 10, 77);
 }
 header {
-    border-bottom: solid 2px rgba(188, 220, 247, 0.685);
+    border-bottom: solid 2px rgba(237, 239, 241, 0.685);
     padding: 10px;
     font-size: 30px;
-    color: white;
+    color: rgb(39, 11, 114);
+    text-align: center;
     }
 section {
     background: rgb(19, 182, 204);
